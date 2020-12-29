@@ -8,3 +8,4 @@
 - Spring MVC
 - String Security
 - Swagger
+- JJWT
